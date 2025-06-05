@@ -19,14 +19,18 @@ This project is a simple **Task Tracker RESTful API** built with **Spring Boot**
 - Java 21+
 - Maven
 - IDE (IntelliJ, VS Code, etc.)
+- Docker
 - PostgreSQL
 
 ### Setup Instructions
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/springboot-task-tracker.git
-cd springboot-task-tracker
+git clone https://github.com/anmol420/TaskTrackerAPI.git
+cd TaskTrackerAPI
+
+# Run Docker
+docker compose up -d
 
 # Build and run the app (example for Maven)
 ./mvnw spring-boot:run
