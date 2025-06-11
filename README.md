@@ -1,18 +1,18 @@
-# 🧩 Spring Boot Task Tracker API
+# Spring Boot Task Tracker API
 
 This project is a simple **Task Tracker RESTful API** built with **Spring Boot** and **Spring Data JPA**. It allows users to manage task lists and tasks with endpoints to create, read, update, and delete (CRUD) both entities.
 
 ---
 
-## 🚀 Features
+## Features
 
-- 📂 **Task Lists**: Create, retrieve, update, and delete task lists (CRUD)
-- ✅ **Tasks**: Add tasks to task lists with priority, status, and due date (CRUD)
-- 🛠️ Fully RESTful structure
-- 🔒 Postgres Database Connectivity
+- **Task Lists**: Create, retrieve, update, and delete task lists (CRUD)
+-  **Tasks**: Add tasks to task lists with priority, status, and due date (CRUD)
+-  Fully RESTful structure
+- Postgres Database Connectivity
 
 ---
-## 📦 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -37,7 +37,7 @@ docker compose up -d
 ```
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ### Folders
 
